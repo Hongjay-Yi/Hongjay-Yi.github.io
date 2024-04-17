@@ -1,0 +1,92 @@
+body {
+	text-align: justify;
+	margin-top: -10px;
+	margin-left: 460px;
+	/* margin:0 auto; */
+	width:1000px;
+}
+.Jay{
+	font-family: 楷体;
+	font-size: 35px;
+	font-weight: bold;
+	text-align: center;
+}
+p{
+	font-family: 'Times New Roman', Times, serif;
+	/* margin-left: 3.125rem; */
+	width: 670px;
+	font-size:22px;
+}
+/* .k1{
+	border: solid 1px blue;
+	width: 1000px;
+	height: 31.25rem;
+} */
+.k1:hover{
+	color: orange;
+}
+.k1{
+		text-decoration: none;
+		color:DodgerBlue;
+		}
+a:hover{
+	color: orange;
+}
+.a1{
+	/* margin-top: 60px; */
+	/* border: solid 1px blue; *//*1000px-62.5*/
+	width: 700px;
+	height: 300px;
+	float: left;
+	
+}
+.b{
+	margin-top: 60px; 
+	/* border: solid 1px blue; */
+	width: 300px;
+	height: 300px;
+	margin-left: 700px; 
+	background-image: url("../img/tx.jpg");
+	background-size: 300px;
+	border-radius: 50%;
+}
+.school1{
+	width: 150px;
+	height: 150px;
+	/* margin-left: 700px; */
+	background-image: url("../img/YiChun No.1 Middle School.jpg");
+	margin-top: 50px;
+	background-size: 150px;
+	border-radius: 50%;
+}
+.school2{
+	width: 150px;
+	height: 150px;
+	/* margin-left: 700px; */
+	background-image: url("https://wang-haoxiao.github.io/images/TJUT.jpg");
+	margin-top: 30px;
+	background-size: 150px;
+	border-radius: 50%;
+}
+.internship1{
+	width: 350px;
+	height: 150px;
+	/* margin-left: 700px; */
+	background-image: url("../img/internship1.png");
+	margin-top: 50px;
+	background-size: 350px;
+}
+.internship2{
+	width: 350px;
+	height: 170px;
+	/* margin-left: 700px; */
+	background-image: url("../img/internship2.jpg");
+	margin-top: 80px;
+	background-size: 350px;
+}
+li{
+	font-family: 'Times New Roman', Times, serif;
+	/* margin-left: 3.125rem; */
+	line-height: 30px;
+	font-size:22px;
+}
